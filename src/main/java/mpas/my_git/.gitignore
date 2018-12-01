@@ -9,6 +9,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -76,4 +77,4 @@ fabric.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
+.idea
