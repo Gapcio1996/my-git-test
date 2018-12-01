@@ -1,10 +1,10 @@
 package mpas.my_git;
 
-public class Samochod {
+public class Auto {
     private String  marka;
     private String   model;
 
-    public Samochod(String marka, String model) {
+    public Auto(String marka, String model) {
         this.marka = marka;
         this.model = model;
 
@@ -13,7 +13,7 @@ public class Samochod {
 
     @Override
     public String toString() {
-        return "Samochod{" +
+        return "Auto{" +
                 "marka='" + marka + '\'' +
                 ", model='" + model + '\'' +
                 '}';
